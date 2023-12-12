@@ -148,11 +148,6 @@ span{
     font-size: 0.85rem;
 }
 
-.nav-panel-deals{
-    font-size: 0.9rem;
-    font-weight: 700;
-}
-
 /**--Hero-section**/
 .hero-section{
     height: 350px;
@@ -314,17 +309,10 @@ footer{
     .nav-panel-option{
         font-size: 0.7rem;
     }
-    .nav-panel-deals{
-        font-size: 0.7rem;
-        font-weight: 500;
-        display: block;
-    }
     .foot-panel-2{
-        height: 600px;
+        height: 650px;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-    .nav-search{
-        width: 90%;
-    }  
+     
 }
