@@ -1,3 +1,4 @@
 # Amazon.clone
-## Ecommerce close using Html and Css.
-## Learing projects
+## Ecommerce clone using Html and Css.
+## Responsive clone.
+## Learing projects.
