@@ -150,7 +150,7 @@ span{
 
 /**--Hero-section**/
 .hero-section{
-    height: 350px;
+    height: 390px;
     display: flex;
     flex-direction: column;
 }
@@ -310,7 +310,7 @@ footer{
         font-size: 0.7rem;
     }
     .foot-panel-2{
-        height: 650px;
+        height: 750px;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
